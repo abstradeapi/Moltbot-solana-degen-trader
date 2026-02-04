@@ -8,6 +8,15 @@ Trade automatically with the new **Moltbot Solana Degen Trader** — an AI-power
 
 Leverage AI (inspired by Claude/Claude agents) for smart arbitrage detection, memecoin sniping, sentiment-based entries, and automated execution across Raydium, Jupiter, Orca, and more. Designed for fast, low-fee trades in volatile markets.
 
+## Contact & Support
+In case of any doubt or issue, reach out here:
+
+- **Issues:** [GitHub Issues]()
+- **TG:** [t.me/dexlenai](https://t.me/dexlenai)
+
+Port feel free to reach out. 🤝 📞 Support
+
+
 **⚠️ Disclaimer:**  
 This is experimental software for educational purposes. Crypto trading (especially degen/memecoin/arbitrage) carries extreme risk of total capital loss. Use at your own risk. Not financial advice. Always DYOR and never invest more than you can afford to lose.
 
@@ -69,12 +78,6 @@ Edit `config.yaml` or `.env` for:
 ## Contributing
 Pull requests welcome! For major changes, open an issue first.
 
-## Contact & Support
-In case of any doubt or issue, reach out here:
 
-- **Issues:** [GitHub Issues]()
-- **TG:** [t.me/dexlenai](https://t.me/dexlenai)
-
-Port feel free to reach out. 🤝 📞 Support
 
 Happy (and safe) degending on Solana! 🚀
