@@ -22,7 +22,6 @@ This is experimental software for educational purposes. Crypto trading (especial
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Moltbot-solana-degen-trader.git
    cd Moltbot-solana-degen-trader
    ```
 
