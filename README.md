@@ -11,6 +11,12 @@ Leverage AI (inspired by Claude/Claude agents) for smart arbitrage detection, me
 **⚠️ Disclaimer:**  
 This is experimental software for educational purposes. Crypto trading (especially degen/memecoin/arbitrage) carries extreme risk of total capital loss. Use at your own risk. Not financial advice. Always DYOR and never invest more than you can afford to lose.
 
+
+<img width="1537" height="613" alt="image" src="https://github.com/user-attachments/assets/41543eeb-49ea-4bcd-b3d6-2726672cd413" />
+
+<img width="1250" height="422" alt="image" src="https://github.com/user-attachments/assets/a5f893fe-e6c0-4bcb-ba67-de6da89eb590" />
+
+
 ## Features
 - **AI-Driven Decisions** — Integrates LLM analysis (e.g., Claude-style prompting) for trade signals, arbitrage opportunities, and risk assessment.
 - **Arbitrage Mode** — Scans multiple DEXs for price discrepancies and executes profitable swaps (with slippage/fee checks).
@@ -18,6 +24,8 @@ This is experimental software for educational purposes. Crypto trading (especial
 - **Solana Native** — Ultra-low latency via Solana RPC + optional Jito bundles for MEV protection.
 - **Customizable Strategies** — Configurable risk params, take-profit/stop-loss, position sizing.
 - **Telegram Notifications** — Real-time trade alerts (optional).
+
+
 
 ## Installation
 1. Clone the repo:
